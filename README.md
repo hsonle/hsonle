@@ -17,6 +17,3 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=hsonlect&color=brightgreen)
 <!-- From: https://github.com/antonkomarev/github-profile-views-counter -->
-
-![](https://hit.yhype.me/github/profile?user_id=82049377)
-
