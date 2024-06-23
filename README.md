@@ -1,4 +1,4 @@
-### Hi there 👋 I'm HOANG-SON
+### Hi there, I’m HOANG-SON!👋
 
 <!--
 **hsonlect/hsonlect** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
